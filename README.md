@@ -5,9 +5,13 @@
 
 <br>
 
-<a href="#01--context">Context</a>
+
+<a href="#01--context">01 / Context</a>
 &nbsp;&nbsp; / &nbsp;&nbsp;
-<a href="#02--selected-work">Selected Work</a>
+<a href="#02--selected-work">02 / Selected Work</a>
+&nbsp;&nbsp; / &nbsp;&nbsp;
+
+
 
 </div>
 
