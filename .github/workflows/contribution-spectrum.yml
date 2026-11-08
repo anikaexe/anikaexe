@@ -28,7 +28,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: anikaexe
-        run: python .github/workflows/.github/scripts/generate_spectrum.py
+        run: python .github/scripts/generate_spectrum.py
 
       - name: Commit updated visualization
         run: |
