@@ -1,15 +1,16 @@
 
 <div align="center">
 
-# anika.exe
+<img src="./assets/technical-header.png" alt="Anika technical profile header" width="100%" />
 
-*An assortment of ideas and implementations.*
+<br>
 
-<a href="#01--a-bit-of-context">About</a>
+<a href="#01--context">Context</a>
 &nbsp;&nbsp; / &nbsp;&nbsp;
 <a href="#02--selected-work">Selected Work</a>
 
 </div>
+
 
 
 ---
