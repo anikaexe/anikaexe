@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="128" viewBox="0 0 960 128" role="img" aria-label="Thought process: Patterns in complexity. Structure in ambiguity. Ideas into systems. Iterations over perfection.">
+  <style>
+    .heading { fill:#7895BA; font: 12px ui-monospace, SFMono-Regular, Consolas, monospace; letter-spacing:2px; }
+    .phrase { fill:#85BEFF; font: 27px ui-monospace, SFMono-Regular, Consolas, monospace; }
+    .cursor { fill:#85BEFF; animation: blink 1s steps(1,end) infinite; }
+    .frame { opacity:0; animation: typeCycle 20s steps(1,end) infinite; }
+    .frame:nth-of-type(2) { animation-delay:-15s; }
+    .frame:nth-of-type(3) { animation-delay:-10s; }
+    .frame:nth-of-type(4) { animation-delay:-5s; }
+    @keyframes typeCycle { 0% {opacity:1; clip-path:inset(0 100% 0 0)} 2% {opacity:1; clip-path:inset(0 82% 0 0)} 4% {opacity:1; clip-path:inset(0 65% 0 0)} 6% {opacity:1; clip-path:inset(0 48% 0 0)} 8% {opacity:1; clip-path:inset(0 30% 0 0)} 10% {opacity:1; clip-path:inset(0 12% 0 0)} 12%,21% {opacity:1; clip-path:inset(0 0 0 0)} 23% {opacity:1; clip-path:inset(0 50% 0 0)} 25%,100% {opacity:0; clip-path:inset(0 100% 0 0)} }
+    @keyframes blink { 0%,49% {opacity:1} 50%,100% {opacity:0} }
+  </style>
+  <rect width="960" height="128" rx="12" fill="#080D16"/>
+  <text class="heading" x="28" y="34">ANIKA.EXE / THOUGHT PROCESS</text>
+  <g transform="translate(28 83)">
+    <g class="frame">
+      <text class="phrase" y="0">Patterns in complexity.</text><rect class="cursor" x="380" y="-24" width="3" height="29"/>
+    </g>
+    <g class="frame">
+      <text class="phrase" y="0">Structure in ambiguity.</text><rect class="cursor" x="430" y="-24" width="3" height="29"/>
+    </g>
+    <g class="frame">
+      <text class="phrase" y="0">Ideas into systems.</text><rect class="cursor" x="345" y="-24" width="3" height="29"/>
+    </g>
+    <g class="frame">
+      <text class="phrase" y="0">Iterations over perfection.</text><rect class="cursor" x="480" y="-24" width="3" height="29"/>
+    </g>
+  </g>
+  <path d="M28 108 H932" stroke="#20334C" stroke-width="1"/>
+</svg>
