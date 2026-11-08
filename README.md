@@ -28,22 +28,43 @@ I wouldn't say I've figured out exactly where my interests will take me, and I'm
 
 ---
 
+
 ### 02 / Selected Work
 
 #### KothaAI
 **AI-powered reflection and mental wellness**
 
-A bilingual web application built around the idea of giving people a private space to reflect. It brings together conversational AI, mood tracking, and future letters, with an emphasis on thoughtful interactions and a straightforward user experience.
+A bilingual web application combining conversational AI, mood tracking, and future letters, designed to make personal reflection more accessible.
 
-`Next.js` `TypeScript` `MongoDB` `Auth.js` `Groq`
+`Next.js` · `TypeScript` · `MongoDB` · `Auth.js` · `Groq`
 
 ---
 
-#### Other Experiments
+#### [MoonBrew Café](https://github.com/anikaexe/MoonBrew-Cafe-)
+**Interface experiment**
 
-A collection of smaller applications, university projects and creative experiments. Some were built to explore a particular concept, others simply because I wanted to see if I could make them work.
+An exploration of front-end development and visual design.
 
-*More projects will find their way here.*
+---
+
+#### [2D Car Racing Game](https://github.com/anikaexe/2D-CarRacingGame)
+**Interactive game development**
+
+A small game development project exploring interactive gameplay and graphics.
+
+---
+
+<details>
+<summary><b>More experiments</b></summary>
+
+<br>
+
+- [Snake Game](https://github.com/anikaexe/snakeGame)
+- [OpenGL Snake](https://github.com/anikaexe/snake--game--opengl)
+- [Dice Game](https://github.com/anikaexe/DiceGame)
+
+</details>
+
 
 
 
