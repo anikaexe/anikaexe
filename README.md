@@ -89,7 +89,9 @@ A small game development project exploring interactive gameplay and graphics.
 <sub><b>ANIKA.EXE / END OF FILE</b></sub>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=anikaexe&label=PROFILE+VIEWS&color=17365D&style=flat-square" alt="Profile views" />
+
+<img src="https://komarev.com/ghpvc/?username=anikaexe&label=PROFILE+VIEWS&color=376FAF&style=for-the-badge" alt="Profile views" />
+
 </p>
 
 
