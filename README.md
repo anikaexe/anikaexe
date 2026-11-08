@@ -23,6 +23,25 @@ I wouldn't say I've figured out exactly where my interests will take me, and I'm
 
 ---
 
+### 02 / Selected Work
+
+#### KothaAI
+**AI-powered reflection and mental wellness**
+
+A bilingual web application built around the idea of giving people a private space to reflect. It brings together conversational AI, mood tracking, and future letters, with an emphasis on thoughtful interactions and a straightforward user experience.
+
+`Next.js` `TypeScript` `MongoDB` `Auth.js` `Groq`
+
+---
+
+#### Other Experiments
+
+A collection of smaller applications, university projects and creative experiments. Some were built to explore a particular concept, others simply because I wanted to see if I could make them work.
+
+*More projects will find their way here.*
+
+
+
 <div align="center">
   <sub>Still exploring. Occasionally overengineering.</sub>
 </div>
