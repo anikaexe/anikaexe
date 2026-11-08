@@ -93,13 +93,21 @@ A small game development project exploring interactive gameplay and graphics.
 </p>
 
 
-<p>
-  <a href="https://github.com/anikaexe">GITHUB</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/anika-ferdous-5ab6462ab/">LINKEDIN</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://www.facebook.com/anika.ferdous.526/">FACEBOOK</a>
+
+<p align="center">
+  <a href="https://github.com/anikaexe">
+    <img src="https://img.shields.io/badge/GitHub-101827?style=for-the-badge&logo=github&logoColor=9BC8FF" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/anika-ferdous-5ab6462ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-101827?style=for-the-badge&logo=linkedin&logoColor=9BC8FF" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/anika.ferdous.526/">
+    <img src="https://img.shields.io/badge/Facebook-101827?style=for-the-badge&logo=facebook&logoColor=9BC8FF" alt="Facebook" />
+  </a>
 </p>
+
 
 
 <sub>Still exploring. Occasionally overengineering.</sub>
