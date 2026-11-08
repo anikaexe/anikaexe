@@ -92,13 +92,15 @@ A small game development project exploring interactive gameplay and graphics.
 <img src="https://komarev.com/ghpvc/?username=anikaexe&label=PROFILE+VIEWS&color=17365D&style=flat-square" alt="Profile views" />
 </p>
 
+
 <p>
-<a href="https://github.com/anikaexe">GITHUB</a>
-&nbsp;&nbsp; / &nbsp;&nbsp;
-<a href="https://www.linkedin.com/">LINKEDIN</a>
-&nbsp;&nbsp; / &nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL">EMAIL</a>
+  <a href="https://github.com/anikaexe">GITHUB</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/anika-ferdous-5ab6462ab/">LINKEDIN</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.facebook.com/anika.ferdous.526/">FACEBOOK</a>
 </p>
+
 
 <sub>Still exploring. Occasionally overengineering.</sub>
 
