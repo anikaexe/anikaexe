@@ -3,6 +3,12 @@
 
 <img src="./assests/technical-header.png" alt="Anika technical profile header" width="100%" />
 
+
+<div align="center">
+  <img src="./assests/thought-process.svg" width="100%" alt="Animated thought process" />
+</div>
+
+
 <br>
 
 
