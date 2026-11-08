@@ -5,7 +5,12 @@
 
 *An assortment of ideas and implementations.*
 
+<a href="#01--a-bit-of-context">About</a>
+&nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="#02--selected-work">Selected Work</a>
+
 </div>
+
 
 ---
 
