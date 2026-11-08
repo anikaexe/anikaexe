@@ -14,7 +14,7 @@
 
 ---
 
-### 01 / A Bit of Context
+### 01 - Context
 
 Hi, I'm Anika.
 
@@ -29,7 +29,7 @@ I wouldn't say I've figured out exactly where my interests will take me, and I'm
 ---
 
 
-### 02 / Selected Work
+### 02 - Selected Work
 
 #### KothaAI
 **AI-powered reflection and mental wellness**
