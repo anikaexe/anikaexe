@@ -50,7 +50,19 @@ A bilingual web application combining conversational AI, mood tracking, and futu
 
 An exploration of front-end development and visual design.
 
+
 ---
+
+### 03 — Development Footprint
+
+<div align="center">
+
+<img src="./assests/contribution-spectrum.svg" width="100%" alt="GitHub Contribution Spectrum" />
+
+<sub>A visual record of activity, not a measure of progress.</sub>
+
+</div>
+
 
 #### [2D Car Racing Game](https://github.com/anikaexe/2D-CarRacingGame)
 **Interactive game development**
