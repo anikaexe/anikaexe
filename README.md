@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/technical-header.png" alt="Anika technical profile header" width="100%" />
+<img src="./assests/technical-header.png" alt="Anika technical profile header" width="100%" />
 
 <br>
 
