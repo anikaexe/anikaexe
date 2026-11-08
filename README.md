@@ -3,24 +3,27 @@
 
 # anika.exe
 
-*An ongoing exercise in figuring things out.*
+*An assortment of ideas and implementations.*
 
 </div>
 
 ---
 
-### A little about me
+### 01 / A Bit of Context
 
 Hi, I'm Anika.
 
 I have a background in Computer Science, although I've never been particularly good at keeping my interests confined to one subject.
 
-I've spent time working on software development, AI applications, and usable security research. Somewhere along the way, I became just as interested in understanding why systems behave the way they do as I am in making them work.
+I've spent time working on software development and AI-integrated applications, but I've always been equally interested in the creative side of building things. I enjoy turning abstract ideas into something tangible, whether that involves writing code, experimenting with interfaces, or figuring out how different pieces fit together.
 
-I like building things, questioning design decisions, and occasionally spending far too long on problems that were supposed to be straightforward.
+I'm particularly drawn to the space between design and engineering, where functionality and creativity have to make sense together. I like understanding why things work the way they do, questioning design decisions, and occasionally spending far too long on problems that were supposed to be straightforward.
 
-I wouldn't say I've figured out exactly where my interests will take me. I think that's part of what makes it interesting.
+I wouldn't say I've figured out exactly where my interests will take me, and I'm in no particular hurry to narrow them down.
 
 ---
 
-<sub>Somewhere between curiosity and implementation.</sub>
+<div align="center">
+  <sub>Still exploring. Occasionally overengineering.</sub>
+</div>
+
